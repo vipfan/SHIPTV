@@ -1,0 +1,1 @@
+cd /jffs/scripts/ && rm -rf iptv7x.sh && wget --no-check-certificate https://github.com/vipfan/SHIPTV/blob/master/meilinvlan-iptv/iptv7x.sh && chmod +x iptv7x.sh && sh iptv7x.sh

@@ -1,0 +1,1 @@
+cd /jffs/scripts/ && rm -rf merlin.sh && wget --no-check-certificate https://github.com/vipfan/SHIPTV/blob/master/meilinvlanoriginal-iptv/merlin.sh && chmod +x merlin.sh && sh merlin.sh

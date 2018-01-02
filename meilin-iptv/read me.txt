@@ -1,0 +1,1 @@
+cd /jffs/scripts/ && rm -rf SHiptv.sh && wget --no-check-certificate https://github.com/vipfan/SHIPTV/blob/master/meilin-iptv/SHiptv.sh && chmod +x SHiptv.sh && sh SHiptv.sh

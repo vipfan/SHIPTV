@@ -22,7 +22,7 @@ echo 正在删除旧文件
 rm -rf wan-start*
 #下载自启动脚本
 echo 正在下载新文件
-wget -q --no-check-certificate https://github.com/vipfan/SHIPTV/blob/master/meilin-iptv/wan-start
+wget -q --no-check-certificate https://raw.githubusercontent.com/vipfan/SHIPTV/master/meilin-iptv/wan-start
 #设置权限
 chmod -R 0755 wan-start
 #完成提示
@@ -42,7 +42,7 @@ echo 正在删除旧文件
 rm -rf dns.conf
 #下载开机运行脚本
 echo 正在下载新文件
-wget -q --no-check-certificate https://github.com/vipfan/SHIPTV/blob/master/meilin-iptv/dns.conf#设置权限
+wget -q --no-check-certificate https://raw.githubusercontent.com/vipfan/SHIPTV/master/meilin-iptv/dns.conf#设置权限
 chmod -R 0644 dns.conf
 #完成提示
 echo 成功
